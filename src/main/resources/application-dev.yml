@@ -1,0 +1,7 @@
+alipay:
+  # 沙箱环境 APPID
+  appId: 2016091900545317
+  # 支付宝沙箱环境网关
+  gatewayHost: openapi.alipaydev.com
+  # 内网穿透 支付通知地址
+  notifyUrl: https://ipay.cn.utools.club/alipay/notify
